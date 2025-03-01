@@ -129,9 +129,9 @@ I’ll make sure to specify which Panel we’re using during each specific secti
 
 * Create **Sev-A** > Grace Period: **1 (hour)** > Schedule: **24/7**![image](https://github.com/user-attachments/assets/c2f2b8c8-5b47-4e8a-ad95-14555ad43fe6)
 
-* Create **Sev-B** > Grace Period: **4 (hours)** > Schedule: **24/7**![image](https://github.com/user-attachments/assets/873b0ad9-b697-4e62-bed4-4a7d90e55928)
+* Create **Sev-B** > Grace Period: **4 (hours)** > Schedule: **24/7**
 
-* Create **Sev-C** > Grace Period: **8 (hours)** > Schedule: **Monday - Friday: 8am - 5pm…**![image](https://github.com/user-attachments/assets/dbb8540e-3d9b-4406-9023-0084c6c41606)
+* Create **Sev-C** > Grace Period: **8 (hours)** > Schedule: **Monday - Friday: 8am - 5pm…**
 
 
 ---
