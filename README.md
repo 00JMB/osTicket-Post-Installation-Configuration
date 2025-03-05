@@ -103,7 +103,7 @@ I’ll make sure to specify which Panel we’re using during each specific secti
 
 * Repeat creation process for another agent, **John Doe**
 
-* Assign them a standard **Support** role with **View Only** permissions
+* Assign them a standard **Support** role with **Expanded Access** permissions
   
 * **Keep track of the log in information you’ve assigned both accounts! (As well as the Users in the next section)**
 
