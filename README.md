@@ -154,4 +154,4 @@ I’ll make sure to specify which Panel we’re using during each specific secti
 
 ### 🎯 Next Steps
 
-You're now ready to move on to the final part of our osTicket project: **[osTicket: Ticket Lifecycle Examples](https://github.com/00JMB/osTicket-Ticket-Lifecycle-Examples)**
+You're now ready to move on to the final part of our osTicket project: **[osTicket: Ticket Lifecycle Examples]([https://github.com/00JMB/osTicket-Ticket-Lifecycle-Examples](https://github.com/00JMB/osTicket-Ticket-Lifecycle-Demo))**
