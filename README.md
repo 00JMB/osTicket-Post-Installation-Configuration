@@ -24,8 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## 🎯 Post-Install Configuration Objectives
 
-- Configure Roles
-
+* Configure Roles
 * Configure Departments
 * Configure Teams
 * Configure Agents
